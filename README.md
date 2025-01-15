@@ -1,9 +1,9 @@
-# ✨ Real-Time Chat App: ChatterBox ✨
+# ✨ Real-Time Chat App: Chatter Talkie ✨
 
-Created by **Utkarsh Birla** and **Vaishali Ajmera**
+Created by  **Vaishali Ajmera**
 
-## 📊 Project Overview
-ChatterBox is a modern real-time chat application built using the MERN stack and enhanced with Socket.io, TailwindCSS, and Daisy UI. This app provides seamless real-time messaging with robust authentication and authorization using JWT.
+## 📊 Project Overvie
+Chatter Talkie is a modern real-time chat application built using the MERN stack and enhanced with Socket.io, TailwindCSS, and Daisy UI. This app provides seamless real-time messaging with robust authentication and authorization using JWT.
 
 <!-- ![📲 Demo App](https://i.ibb.co/fXmZdnz/Screenshot-10.png) -->
 ![Demo App](Real-time-chat-app/frontend/public/images/chat-demo.png)
@@ -23,7 +23,7 @@ ChatterBox is a modern real-time chat application built using the MERN stack and
 - **😍 Emojis and Reactions**: Express yourself with fun interactions
 
 ## 🔧 Environment Setup
-To run ChatterBox, create a `.env` file in the project root with the following configuration:
+To run Chatter Talkie, create a `.env` file in the project root with the following configuration:
 
 ```env
 PORT=...
@@ -46,4 +46,4 @@ To start the application:
 npm start
 ```
 
-🌟 Enjoy building and using **ChatterBox**! 😍
+🌟 Enjoy building and using **Chatter Talkie**! 😍
